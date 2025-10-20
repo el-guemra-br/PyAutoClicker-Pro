@@ -52,7 +52,7 @@
 - $This$ $script$ $uses$ $real$ $mouse$ $input$, $so$ $avoid$ $moving$ $the$ $mouse$ $or$ $interacting$ $with$ $the$ $system$ $to$ $prevent$ $interference$ $during$ $clicking$.
 
 
-## 👀 Visitor Counter
+## Visitor Counter
 
 <p align="center">
   <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
