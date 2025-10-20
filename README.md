@@ -50,3 +50,16 @@
 - $Use$ $this$ $tool$ $responsibly$ $to$ $avoid$ $unwanted$ $clicks$ $in$ $critical$ $applications$.
 
 - $This$ $script$ $uses$ $real$ $mouse$ $input$, $so$ $avoid$ $moving$ $the$ $mouse$ $or$ $interacting$ $with$ $the$ $system$ $to$ $prevent$ $interference$ $during$ $clicking$.
+
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=el-guemra-br.PyAutoClicker-Pro&" />
+  <br>
+  <sub>
+    Thank you for stopping by! Your visit is appreciated. 
+  </sub>
+</p>
