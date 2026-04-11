@@ -56,7 +56,7 @@ class AutoClickerModernApp:
         if not (Image and ImageTk and cairosvg):
             return
         
-        icons = {"github": "github.svg", "instagram": "instagram.svg"}
+        icons = {"github": "github_icon.svg", "instagram": "instagram_icon.svg"}
         script_dir = Path(__file__).parent
         
         for name, filename in icons.items():
@@ -241,7 +241,7 @@ class AutoClickerModernApp:
         else:
             ttk.Button(
                 icon_container,
-                text="GitHub",
+                text="GH",
                 style="Icon.TButton",
                 command=lambda: self._open_link("https://github.com/el-guemra-br"),
             ).pack(side="right", padx=(6, 0))
@@ -261,7 +261,7 @@ class AutoClickerModernApp:
         else:
             ttk.Button(
                 icon_container,
-                text="Instagram",
+                text="IG",
                 style="Icon.TButton",
                 command=lambda: self._open_link("https://instagram.com/el_guemra_br"),
             ).pack(side="right")
